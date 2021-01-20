@@ -1,8 +1,8 @@
 *.swp
 *.osm
 *.o
+.idea/*
 draw.cpp
-test.cpp
 build/
 bin/
 lib/
